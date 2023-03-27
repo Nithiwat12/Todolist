@@ -1,0 +1,45 @@
+.contrainer{
+    text-align: center;
+    margin-top: 10%;
+}
+.contrainer2{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 400px;
+    justify-content: space-between;
+}
+.input-todo{
+    height: 2rem;
+    width: 250px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.sub-todo{
+    height: 2.5rem;
+    width: 70px;
+    border-radius: 10px;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo{
+    font-size: 1.5rem;
+    margin-left: 5px;
+}
+.button{
+    margin: 3px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
